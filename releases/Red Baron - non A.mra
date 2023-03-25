@@ -1,7 +1,7 @@
 <misterromdescription>
-	<name>Red Baron</name>
+	<name>Red Baron (Revised Hardware)</name>
 	<mameversion>0226</mameversion>
-	<setname>redbarona</setname>
+	<setname>redbaron</setname>
 	<mratimestamp>20201224150402</mratimestamp>
 	<year>1980</year>
 	<manufacturer>Atari</manufacturer>
